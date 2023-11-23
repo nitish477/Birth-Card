@@ -1,0 +1,68 @@
+.contanier {
+    background-image: url(https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    height: auto;
+    margin: 10px auto;
+    padding: 50px 20px;
+    color: white;
+    position: relative;
+    text-wrap: wrap;
+}
+.sender{
+    font-size: 18px;
+    font-weight: bold;
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    margin: 5px 5px;
+}
+.contaient{
+    font-size: 18px;
+    margin:30px 10px;
+}
+.reciver{
+    font-size: 18px;
+    font-weight: bold;
+    position: absolute;
+    bottom: 5px;
+    right:5px;
+}
+.theme-1{
+    background-color: #D9AFD9;
+    background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);    
+}
+.theme-2{
+    background-color: #85FFBD;
+background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+color: black;
+
+}
+.theme-3{
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+} 
+.theme-4{
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+        
+}
+.url-contanier{
+    margin: 10px auto;
+    padding: 0.1px 0px;
+    text-align: center;
+    background-color: #e6e6e6;
+}
+.input-box{
+    border: none;
+    outline: none;
+    border-bottom: 2px solid hotpink;
+    margin: 10px 20px;
+}
+.input-contanier{
+    margin: 0 auto;
+    width: 450px;
+    display: flex;
+    flex-wrap: wrap;
+}
